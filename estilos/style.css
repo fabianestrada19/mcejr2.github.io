@@ -1,0 +1,210 @@
+.margen{
+  margin-top:1.5em;
+}
+
+.fondonav{
+  background-color: #295679;
+}
+
+.marco{
+  padding-left: 100px;
+}
+
+.centrar{
+  vertical-align:middle;
+}
+
+.h1font{
+  color: #ffffff;
+  font-weight: normal;
+  font-size: 25px;
+  font-family: Calibri light;
+}
+
+.rectangule{
+  border-radius: 10px 10px 10px 10px;
+border: 0px solid #000000;
+background-color: #cccccc;
+margin-top: 1em;
+
+}
+.overflow{
+  
+  height: 400px;
+  overflow: hidden;
+  
+}
+header {
+	background: #1a1d25;
+	padding: 10px 0;
+}
+header .logo {
+	max-width: 120px;
+}
+
+  
+  /* Jumbotron (hero) */
+  /* Bustom button */
+  .btn-primary {
+    background: #1096fc;
+    border: 0;
+  }
+  .btn-primary:hover {
+    background: #0384e5;
+  }
+  
+  /* Features */
+  .sec-features .row:nth-of-type(n+2) {
+    margin-top: 160px;
+  }
+  .sec-features .row:last-of-type {
+    margin-bottom: 160px;
+  }
+  .sec-features .feature-icon {
+    max-width: 150px;
+  }
+  
+  /* Testimonials */
+  .sec-testimonials {
+    padding-top: 128px;
+    padding-bottom: 128px;
+  }
+  
+  /* Carousel */
+  .carousel-indicators {
+    bottom: -30px;
+  }
+  .carousel-indicators li {
+    background: rgba(33, 33, 33, 0.1);
+  }
+  .carousel-indicators li:focus, .carousel-indicators li:hover {
+    background: rgba(33, 33, 33, 0.5);
+  }
+  .carousel-indicators .active {
+    background: rgba(33, 33, 33, 0.75);
+  }
+  
+  .carousel-control-next,
+  .carousel-control-prev {
+    color: #212121;
+  }
+  .carousel-control-next:focus, .carousel-control-next:hover,
+  .carousel-control-prev:focus,
+  .carousel-control-prev:hover {
+    color: #111;
+  }
+  
+  /* Footer */
+  .footer {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background: #212121;
+  }
+  .footer li:nth-of-type(n+2) {
+    margin-left: 8px;
+  }
+  .footer a {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    -webkit-transition: color .235s ease-in-out;
+    transition: color .235s ease-in-out;
+  }
+  .footer a:focus, .footer a:hover {
+    color: rgba(255, 255, 255, 0.25);
+  }
+
+  p{
+    font-size: 1.5em;
+  }
+
+
+
+  .cid-rXdy4fTRfv {
+    padding-top: 45px;
+    padding-bottom: 60px;
+    background-color: #2e2e2e;
+  }
+  @media (max-width: 767px) {
+    .cid-rXdy4fTRfv .content {
+      text-align: center;
+    }
+    .cid-rXdy4fTRfv .content > div:not(:last-child) {
+      margin-bottom: 2rem;
+    }
+  }
+  .cid-rXdy4fTRfv .map {
+    height: 18.75rem;
+  }
+  @media (max-width: 767px) {
+    .cid-rXdy4fTRfv .footer-lower .copyright {
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+  }
+  .cid-rXdy4fTRfv .footer-lower hr {
+    margin: 1rem 0;
+    border-color: #fff;
+    opacity: .05;
+  }
+  .cid-rXdy4fTRfv .footer-lower .social-list {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    display: flex;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .cid-rXdy4fTRfv .footer-lower .social-list .mbr-iconfont-social {
+    font-size: 1.3rem;
+    color: #fff;
+  }
+  .cid-rXdy4fTRfv .footer-lower .social-list .soc-item {
+    margin: 0 .5rem;
+  }
+  .cid-rXdy4fTRfv .footer-lower .social-list a {
+    margin: 0;
+    opacity: .5;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+  }
+  .cid-rXdy4fTRfv .footer-lower .social-list a:hover {
+    opacity: 1;
+  }
+  @media (max-width: 767px) {
+    .cid-rXdy4fTRfv .footer-lower .social-list {
+      -webkit-justify-content: center;
+      justify-content: center;
+    }
+  }
+  .cid-rXdy4fTRfv .google-map {
+    height: 25rem;
+    position: relative;
+  }
+  .cid-rXdy4fTRfv .google-map iframe {
+    height: 100%;
+    width: 100%;
+  }
+  .cid-rXdy4fTRfv .google-map [data-state-details] {
+    color: #6b6763;
+    font-family: Montserrat;
+    height: 1.5em;
+    margin-top: -0.75em;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+  }
+  .cid-rXdy4fTRfv .google-map[data-state] {
+    background: #e9e5dc;
+  }
+  .cid-rXdy4fTRfv .google-map[data-state="loading"] [data-state-details] {
+    display: none;
+  }
+
+
+
+  
